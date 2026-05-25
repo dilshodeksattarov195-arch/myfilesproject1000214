@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authsarse",
+        "uuid": 2132296,
+        "checksum": "is5bzp"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
